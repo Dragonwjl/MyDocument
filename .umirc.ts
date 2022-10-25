@@ -1,9 +1,9 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'dumi-template';
+const repo = 'MyDocument';
 
 export default defineConfig({
-  title: repo,
+  title: 'MyDocument',
   favicon:
     'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   logo:
@@ -18,7 +18,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/umijs/dumi-template',
+      path: 'https://github.com/Dragonwjl/MyDocument',
     },
   ],
   // more config: https://d.umijs.org/config
